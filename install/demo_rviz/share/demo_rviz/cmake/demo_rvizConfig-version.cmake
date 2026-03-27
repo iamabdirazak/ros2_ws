@@ -1,0 +1,1 @@
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/ament_cmake_core/demo_rvizConfig-version.cmake

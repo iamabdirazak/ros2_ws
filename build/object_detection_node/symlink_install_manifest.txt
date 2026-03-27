@@ -1,0 +1,15 @@
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/package_run_dependencies/object_detection_node
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/parent_prefix_path/object_detection_node
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/ament_prefix_path.sh
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/ament_prefix_path.dsv
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/path.sh
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/path.dsv
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.bash
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.sh
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.zsh
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.dsv
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/package.dsv
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/packages/object_detection_node
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/cmake/object_detection_nodeConfig.cmake
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/cmake/object_detection_nodeConfig-version.cmake
+/home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/package.xml

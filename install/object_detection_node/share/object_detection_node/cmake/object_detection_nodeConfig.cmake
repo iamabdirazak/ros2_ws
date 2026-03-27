@@ -1,0 +1,1 @@
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/ament_cmake_core/object_detection_nodeConfig.cmake

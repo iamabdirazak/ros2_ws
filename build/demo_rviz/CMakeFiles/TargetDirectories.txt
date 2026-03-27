@@ -1,0 +1,10 @@
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/uninstall.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/demo_rviz_uninstall.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/talker.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/test.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/edit_cache.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/rebuild_cache.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/list_install_components.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/install.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/install/local.dir
+/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/CMakeFiles/install/strip.dir

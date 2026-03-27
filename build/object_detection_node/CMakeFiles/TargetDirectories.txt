@@ -1,0 +1,9 @@
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/uninstall.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/object_detection_node_uninstall.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/test.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/edit_cache.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/rebuild_cache.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/list_install_components.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/install.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/install/local.dir
+/home/abdirazak/Robotics/ros2_ws/build/object_detection_node/CMakeFiles/install/strip.dir

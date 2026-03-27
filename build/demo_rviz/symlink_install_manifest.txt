@@ -1,0 +1,16 @@
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/lib/demo_rviz/talker
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/ament_index/resource_index/package_run_dependencies/demo_rviz
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/ament_index/resource_index/parent_prefix_path/demo_rviz
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/environment/ament_prefix_path.sh
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/environment/ament_prefix_path.dsv
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/environment/path.sh
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/environment/path.dsv
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/local_setup.bash
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/local_setup.sh
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/local_setup.zsh
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/local_setup.dsv
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/package.dsv
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/ament_index/resource_index/packages/demo_rviz
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/cmake/demo_rvizConfig.cmake
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/cmake/demo_rvizConfig-version.cmake
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/package.xml

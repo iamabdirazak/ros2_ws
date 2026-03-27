@@ -1,0 +1,38 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/abdirazak/Robotics/ros2_ws/build/object_detection_node
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/package_run_dependencies/object_detection_node
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/parent_prefix_path/object_detection_node
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/ament_prefix_path.sh
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/ament_prefix_path.dsv
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/path.sh
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/environment/path.dsv
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.bash
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.sh
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.zsh
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/local_setup.dsv
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/package.dsv
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/ament_index/resource_index/packages/object_detection_node
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/cmake/object_detection_nodeConfig.cmake
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/cmake/object_detection_nodeConfig-version.cmake
+-- Symlinking: /home/abdirazak/Robotics/ros2_ws/install/object_detection_node/share/object_detection_node/package.xml
