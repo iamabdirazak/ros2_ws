@@ -315,7 +315,7 @@ message(STATUS "Execute custom install script")
 
 # begin of custom install code
 
-# install("TARGETS" "talker" "DESTINATION" "lib/demo_rviz")
+# install("TARGETS" "talker" "cmd_publisher" "robot_node" "DESTINATION" "lib/demo_rviz")
 include("/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/ament_cmake_symlink_install_targets_0_${CMAKE_INSTALL_CONFIG_NAME}.cmake")
 
 # install(FILES "/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/demo_rviz" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")

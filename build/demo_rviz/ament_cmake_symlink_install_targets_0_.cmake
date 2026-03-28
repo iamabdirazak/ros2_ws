@@ -1,1 +1,1 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/talker" "TARGETS" "talker" "DESTINATION" "lib/demo_rviz")
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/talker" "/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/cmd_publisher" "/home/abdirazak/Robotics/ros2_ws/build/demo_rviz/robot_node" "TARGETS" "talker" "cmd_publisher" "robot_node" "DESTINATION" "lib/demo_rviz")

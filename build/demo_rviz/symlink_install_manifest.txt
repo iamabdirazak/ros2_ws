@@ -1,4 +1,6 @@
 /home/abdirazak/Robotics/ros2_ws/install/demo_rviz/lib/demo_rviz/talker
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/lib/demo_rviz/cmd_publisher
+/home/abdirazak/Robotics/ros2_ws/install/demo_rviz/lib/demo_rviz/robot_node
 /home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/ament_index/resource_index/package_run_dependencies/demo_rviz
 /home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/ament_index/resource_index/parent_prefix_path/demo_rviz
 /home/abdirazak/Robotics/ros2_ws/install/demo_rviz/share/demo_rviz/environment/ament_prefix_path.sh

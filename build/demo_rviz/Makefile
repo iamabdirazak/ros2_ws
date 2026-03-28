@@ -210,6 +210,80 @@ talker/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/talker.dir/build.make CMakeFiles/talker.dir/build
 .PHONY : talker/fast
 
+#=============================================================================
+# Target rules for targets named cmd_publisher
+
+# Build rule for target.
+cmd_publisher: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cmd_publisher
+.PHONY : cmd_publisher
+
+# fast build rule for target.
+cmd_publisher/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmd_publisher.dir/build.make CMakeFiles/cmd_publisher.dir/build
+.PHONY : cmd_publisher/fast
+
+#=============================================================================
+# Target rules for targets named robot_node
+
+# Build rule for target.
+robot_node: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 robot_node
+.PHONY : robot_node
+
+# fast build rule for target.
+robot_node/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/robot_node.dir/build.make CMakeFiles/robot_node.dir/build
+.PHONY : robot_node/fast
+
+src/cmd_publisher.o: src/cmd_publisher.cpp.o
+.PHONY : src/cmd_publisher.o
+
+# target to build an object file
+src/cmd_publisher.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmd_publisher.dir/build.make CMakeFiles/cmd_publisher.dir/src/cmd_publisher.cpp.o
+.PHONY : src/cmd_publisher.cpp.o
+
+src/cmd_publisher.i: src/cmd_publisher.cpp.i
+.PHONY : src/cmd_publisher.i
+
+# target to preprocess a source file
+src/cmd_publisher.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmd_publisher.dir/build.make CMakeFiles/cmd_publisher.dir/src/cmd_publisher.cpp.i
+.PHONY : src/cmd_publisher.cpp.i
+
+src/cmd_publisher.s: src/cmd_publisher.cpp.s
+.PHONY : src/cmd_publisher.s
+
+# target to generate assembly for a file
+src/cmd_publisher.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/cmd_publisher.dir/build.make CMakeFiles/cmd_publisher.dir/src/cmd_publisher.cpp.s
+.PHONY : src/cmd_publisher.cpp.s
+
+src/robot_node.o: src/robot_node.cpp.o
+.PHONY : src/robot_node.o
+
+# target to build an object file
+src/robot_node.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/robot_node.dir/build.make CMakeFiles/robot_node.dir/src/robot_node.cpp.o
+.PHONY : src/robot_node.cpp.o
+
+src/robot_node.i: src/robot_node.cpp.i
+.PHONY : src/robot_node.i
+
+# target to preprocess a source file
+src/robot_node.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/robot_node.dir/build.make CMakeFiles/robot_node.dir/src/robot_node.cpp.i
+.PHONY : src/robot_node.cpp.i
+
+src/robot_node.s: src/robot_node.cpp.s
+.PHONY : src/robot_node.s
+
+# target to generate assembly for a file
+src/robot_node.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/robot_node.dir/build.make CMakeFiles/robot_node.dir/src/robot_node.cpp.s
+.PHONY : src/robot_node.cpp.s
+
 src/talker.o: src/talker.cpp.o
 .PHONY : src/talker.o
 
@@ -249,7 +323,15 @@ help:
 	@echo "... test"
 	@echo "... demo_rviz_uninstall"
 	@echo "... uninstall"
+	@echo "... cmd_publisher"
+	@echo "... robot_node"
 	@echo "... talker"
+	@echo "... src/cmd_publisher.o"
+	@echo "... src/cmd_publisher.i"
+	@echo "... src/cmd_publisher.s"
+	@echo "... src/robot_node.o"
+	@echo "... src/robot_node.i"
+	@echo "... src/robot_node.s"
 	@echo "... src/talker.o"
 	@echo "... src/talker.i"
 	@echo "... src/talker.s"
